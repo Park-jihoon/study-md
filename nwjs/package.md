@@ -35,3 +35,12 @@
 
 -	에니그마 버추얼 박스 http://enigmaprotector.com
 
+##패키징 애플리케이션 Icon 변경 (For Windows Exe)
+
+1.	Resource Hacker 다운로드 및 인스톨
+
+<pre> "C:\Program Files (x86)\Resource Hacker\ResourceHacker.exe" -open app.exe -save app2.exe -action addoverwrite -res ./favicon.ico -mask ICONGROUP,IDR_MAINFRAME,
+</pre>
+
+-	참고 https://github.com/nwjs/nw.js/wiki/Icons
+-	단, 단일파일로 패키징 이전에 icon을 변경해야한다.
