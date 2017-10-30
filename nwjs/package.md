@@ -1,23 +1,26 @@
-#NWJS https://nwjs.io/
+NWJS https://nwjs.io/
+=====================
 
 ---
 
-##기본 설치
+기본 설치
+---------
 
-###1. NWJS 홈페이지(https://nwjs.io/) 방문
+### 1. NWJS 홈페이지(https://nwjs.io/) 방문
 
-###2. 프로그램 다운로드
+### 2. 프로그램 다운로드
 
 <pre>프로그램 내부에는 NodeJS 와 Chromium 이 함께 들어있다.
 </pre>
 
-###3. 압축 풀고 실행
+### 3. 압축 풀고 실행
 
 <pre>Hello World!</pre>
 
 ---
 
-##패키지로 묶기
+패키지로 묶기
+-------------
 
 1.	ZIP 으로 APPLICATION 폴더를 압축
 
@@ -35,7 +38,8 @@
 
 -	에니그마 버추얼 박스 http://enigmaprotector.com
 
-##패키징 애플리케이션 Icon 변경 (For Windows Exe)
+패키징 애플리케이션 Icon 변경 (For Windows Exe)
+-----------------------------------------------
 
 1.	Resource Hacker 다운로드 및 인스톨
 
